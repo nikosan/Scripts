@@ -1,4 +1,6 @@
-MusicScripts
-============
+Scripts
+=======
 
-Petits scripts pour gérer la musique
+Petits scripts bash.
+
+addReplayGain.sh : Ajoute le tag ReplayGain dans les fichiers musicaux flac, ogg et mp3
